@@ -1,4 +1,3 @@
-import { useReducer, useState } from "react";
 import "./App.css";
 import Brawlers from "./brawlers";
 import { data } from "./data";
